@@ -1,6 +1,8 @@
 # MANNAMCHU~✨
 
 ## MANNAMCHU ?
+<img width="1680" alt="스크린샷 2021-09-10 오후 8 28 07" src="https://user-images.githubusercontent.com/76423949/132846788-7454d995-43aa-4ae8-9e18-4fe5a9c2d5d8.png">
+
 
 프리미엄 과일 부티크 커머서 사이트인 "[마담주](https://madamjooapp.imweb.me/)"를 클론코딩 해보았습니다
 
