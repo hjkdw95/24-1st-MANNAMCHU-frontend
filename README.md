@@ -77,43 +77,6 @@
 - 페이지네이션 무한 스크롤로 구현
   <br>
 
-**조성환**
-
-`common`
-
-- 공용 tag component 생성
-
-`Detail page`
-
-- lifecycle method를 활용하여 수량, 옵션 선택 및 삭제 기능 구현
-- carousel을 활용하여 이미지 슬라이드 구현
-- query string을 활용한 동적 라우팅 구현
-
-`Cart page`
-
-- query string을 활용한 동적 라우팅 구현
-- lifecycle method를 활용하여 수량, 옵션 선택 및 삭제 기능 구현
-- state로 상태관리 후 결제 시 fetch API 활용하여 서버에 전송 기능 구현
-  <br>
-
-**정행운**
-
-`Login page` & `Signup page`
-
-- 동적 class 활용하여 모달 on/off 기능 구현
-- 유효성 검증 로직 추가하여 FE/BE 양측에서 유효성 확인하도록 구현
-
-`Navigation bar`
-
-- 공용 component로서 navigation bar 구현
-- 정적 routing 구현
-- Login/out 상태 활용하여 연결할 component 구분
-
-`Footer`
-
-- 공용 component로서 footer 구현
-  <br>
-
 ## Reference
 
 - 이 프로젝트는 라인프렌즈샵 사이트를 참조하여 학습목적으로 만들었습니다.
